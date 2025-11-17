@@ -1,4 +1,5 @@
 # Demonstration
-I added this line.
+## Simulating Dice Rolls
+We can simulate dice rolls by using a Python script to simulate rolling dice 10M times.
 
-I added this line from web browser.
+![Simulating Dice Rolls](plot.png)
