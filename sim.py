@@ -34,8 +34,6 @@ ax.plot(x, y)
 ax.set_xlabel("Number of Trials")
 ax.set_xscale("log", base = 10)
 ax.set_ylabel("Relative Frequency")
-ax.set_title("Rolling a 7")
+ax.set_title("Rolling a 7 with a Pair of Dice")
 
 plt.savefig("plot.png")
-
-print(y)
